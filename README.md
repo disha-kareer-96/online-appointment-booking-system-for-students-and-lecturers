@@ -1,11 +1,11 @@
 # ONLINE APPOINTMENT BOOKING SYSTEM FOR STUDENTS AND LECTURERS
 A dynamic web application developed as part of my final year project for the module CSC3047. 
 
-# KEY USERS OF THE SYSTEM:-
+# KEY USERS OF THE SYSTEM
 - first year computing and information technology (CIT) students
 - lecturers
 
-# MAIN FEATURES OF THE SYSTEM:- 
+# MAIN FEATURES OF THE SYSTEM
 - select user type for both students and lecturers
 - student registration
 - student login
